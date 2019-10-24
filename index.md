@@ -10,17 +10,17 @@
 ---
 
 [Machine Learning A-Z Code Snippets](https://github.com/siddhesh1598/MachineLearningAtoZ)
-<img src="images/Machine_Learning_A-Z.png?raw=true"/>
+<img src="images/Machine_Learning_A-Z.png?raw=true" width="320" height="320" />
 
 ---
 
 [SMS Spam Classifier](https://github.com/siddhesh1598/SMS_Spam_Classifier)
-<img src="images/SMS_Fraud_Detection.png?raw=true"/>
+<img src="images/SMS_Fraud_Detection.png?raw=true" width="320" height="320" />
 
 ---
 
 [Credit Card Fraud Detection](https://github.com/siddhesh1598/Credit_Card_Fraud_Detection)
-<img src="images/Credit_Card_Fraud_Detection.png?raw=true"/>
+<img src="images/Credit_Card_Fraud_Detection.png?raw=true" width="320" height="320" />
 
 ---
 
