@@ -5,7 +5,7 @@
 ### Github Projects
 
 [Grooking Deep Learning Code Snippets](https://github.com/siddhesh1598/GrookingDeepLearning)
-<img src="images/GrookingDeepLearning.png?raw=true"/>
+<img src="images/Grooking_Deep_Learning.png?raw=true"/>
 
 ---
 
