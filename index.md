@@ -5,17 +5,17 @@
 ### Github Projects
 
 [Grooking Deep Learning Code Snippets](https://github.com/siddhesh1598/GrookingDeepLearning)
-<img src="images/Grooking_Deep_Learning.png?raw=true" width="320" height="320" />
+<img src="images/Grooking_Deep_Learning.png" width="320" height="320" />
 
 ---
 
 [Machine Learning A-Z Code Snippets](https://github.com/siddhesh1598/MachineLearningAtoZ)
-<img src="images/Machine_Learning_A-Z.png?raw=true" width="320" height="320" />
+<img src="images/Machine_Learning_A-Z.png" width="320" height="320" />
 
 ---
 
 [SMS Spam Classifier](https://github.com/siddhesh1598/SMS_Spam_Classifier)
-<img src="images/SMS_Fraud_Detection.png?raw=true" width="320" height="320" />
+<img src="images/SMS_Fraud_Detection.png" width="320" height="320" />
 
 ---
 
