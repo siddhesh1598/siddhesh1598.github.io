@@ -20,7 +20,7 @@
 ---
 
 [Credit Card Fraud Detection](https://github.com/siddhesh1598/Credit_Card_Fraud_Detection)
-<img src="images/Credit_Card_Fraud_Detection.png?raw=true" width="320" height="320" />
+<img src="images/Credit_Card_Fraud_Detection.png" width="320" height="320" />
 
 ---
 
