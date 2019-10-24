@@ -4,22 +4,22 @@
 
 ### Github Projects
 
-**[Grooking Deep Learning Code Snippets]**(https://github.com/siddhesh1598/GrookingDeepLearning) <br>
+#[Grooking Deep Learning Code Snippets](https://github.com/siddhesh1598/GrookingDeepLearning) <br>
 <img src="images/Grooking_Deep_Learning.png" width="320" height="320" />
 
 ---
 
-[Machine Learning A-Z Code Snippets](https://github.com/siddhesh1598/MachineLearningAtoZ) <br>
+#[Machine Learning A-Z Code Snippets](https://github.com/siddhesh1598/MachineLearningAtoZ) <br>
 <img src="images/Machine_Learning_A-Z.png" width="320" height="320" />
 
 ---
 
-[SMS Spam Classifier](https://github.com/siddhesh1598/SMS_Spam_Classifier) <br>
+#[SMS Spam Classifier](https://github.com/siddhesh1598/SMS_Spam_Classifier) <br>
 <img src="images/SMS_Fraud_Detection.png" width="320" height="320" />
 
 ---
 
-[Credit Card Fraud Detection](https://github.com/siddhesh1598/Credit_Card_Fraud_Detection) <br>
+#[Credit Card Fraud Detection](https://github.com/siddhesh1598/Credit_Card_Fraud_Detection) <br>
 <img src="images/Credit_Card_Fraud_Detection.png" width="320" height="320" />
 
 ---
